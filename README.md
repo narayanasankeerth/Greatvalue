@@ -4,6 +4,7 @@
 
 [🚀 View Live Project Dashboard](https://nakkalapallisureshbabu.github.io/Information-Visualization/)
 
+
 ## 📈 Executive Summary
 This project delivers a high-fidelity prototype for automotive data visualization, designed to transform raw vehicle data (`a1-cars.csv`) into actionable business intelligence. By integrating coordinated visualizations, the system allows stakeholders to analyze key performance drivers—such as MPG, Horsepower, and Acceleration—across different manufacturing origins and model years.
 
@@ -36,7 +37,3 @@ This project demonstrates the core skills required for the **Business Data Analy
 *   **Data-to-Insights:** Proven ability to not just build a chart, but to interpret "Car Trend Interpretations" and explain performance drivers to stakeholders.
 *   **Problem Solving:** Tailored custom JavaScript solutions to handle data density and coordinate multiple views.
 
----
-### 👥 Team & Contribution
-Developed by **Group 26**. 
-*Lead Developer for [Your Name]: Focused on [e.g., Data Analysis & Heat Map Logic]*
